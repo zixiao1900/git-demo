@@ -13,4 +13,4 @@ hello git! hello home!
 hello git! hello home!
 hello git! hello home!
 hello git! hello home! master test
-hello git! hello home!
+hello git! hello home! hot-fix test
